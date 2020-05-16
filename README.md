@@ -12,3 +12,5 @@ Ref: [What the FPKM? A review of RNA-Seq expression units](https://haroldpimente
 
 <img src="https://render.githubusercontent.com/render/math?math=\text{TPM}_i = \left( \dfrac{\text{FPKM}_i}{\sum_j \text{FPKM}_j } \right) \cdot 10^6">
 
+
+## CPM
