@@ -8,5 +8,7 @@ Single-Cell RNA-seq project G268
 
 
 ## TPM
+Ref: [What the FPKM? A review of RNA-Seq expression units](https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/)
 
-$$ TPM_i $$
+$$ \begin{aligned} \text{TPM}_i &= \left( \dfrac{\text{FPKM}_i}{\sum_j \text{FPKM}_j } \right) \cdot 10^6 \end{aligned} $$
+
